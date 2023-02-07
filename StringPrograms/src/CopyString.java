@@ -12,6 +12,7 @@ public class CopyString {
 				}
 		System.out.println("first string is :"+s1);
 		System.out.println("copy of first string is :"+s2);
+		System.out.println("This is just second commit");
 		
 	}
 
